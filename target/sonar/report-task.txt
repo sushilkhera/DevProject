@@ -1,0 +1,5 @@
+projectKey=com.sushil:MavenJunitDemo
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.sushil:MavenJunitDemo
+ceTaskId=AV9PuSQFdn4m2ZfjQERk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV9PuSQFdn4m2ZfjQERk
