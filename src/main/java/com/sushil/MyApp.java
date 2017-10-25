@@ -17,7 +17,7 @@ public class MyApp {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		logger.info("Inside main method");
+		//empty main method
 	}
 
 }
